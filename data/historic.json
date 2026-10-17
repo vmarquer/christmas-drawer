@@ -1,0 +1,118 @@
+{
+  "2025": {
+    "Azilis": [
+      "Corentin",
+      "Rachel"
+    ],
+    "Corentin": [
+      "Pascale",
+      "Papou"
+    ],
+    "Eliott": [
+      "Ivan",
+      "Papou"
+    ],
+    "Esteban": [
+      "Eliott",
+      "Rachel"
+    ],
+    "Garance": [
+      "Soazig",
+      "Victor"
+    ],
+    "Ivan": [
+      "Esteban",
+      "Mamouk"
+    ],
+    "Mamouk": [
+      "Corentin",
+      "Pascale"
+    ],
+    "Papou": [
+      "Samuel",
+      "Garance"
+    ],
+    "Pascale": [
+      "Azilis",
+      "Soazig"
+    ],
+    "Rachel": [
+      "Victor",
+      "Thomas"
+    ],
+    "Samuel": [
+      "Ivan",
+      "Azilis"
+    ],
+    "Soazig": [
+      "Samuel",
+      "Eliott"
+    ],
+    "Thomas": [
+      "Garance",
+      "Esteban"
+    ],
+    "Victor": [
+      "Mamouk",
+      "Thomas"
+    ]
+  },
+  "2026": {
+    "Azilis": [
+      "Mamouk",
+      "Eliott"
+    ],
+    "Corentin": [
+      "Mamouk",
+      "Garance"
+    ],
+    "Eliott": [
+      "Corentin",
+      "Pascale"
+    ],
+    "Esteban": [
+      "Samuel",
+      "Victor"
+    ],
+    "Garance": [
+      "Ivan",
+      "Azilis"
+    ],
+    "Ivan": [
+      "Thomas",
+      "Garance"
+    ],
+    "Mamouk": [
+      "Soazig",
+      "Victor"
+    ],
+    "Papou": [
+      "Azilis",
+      "Samuel"
+    ],
+    "Pascale": [
+      "Esteban",
+      "Eliott"
+    ],
+    "Rachel": [
+      "Soazig",
+      "Papou"
+    ],
+    "Samuel": [
+      "Papou",
+      "Thomas"
+    ],
+    "Soazig": [
+      "Rachel",
+      "Pascale"
+    ],
+    "Thomas": [
+      "Corentin",
+      "Rachel"
+    ],
+    "Victor": [
+      "Esteban",
+      "Ivan"
+    ]
+  }
+}
